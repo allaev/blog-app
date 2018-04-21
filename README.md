@@ -10,4 +10,4 @@ Each post contains a title, image, date and text.
 - REST
 - Semantic UI
 
-![blog-app_screenshot](https://user-images.githubusercontent.com/34710484/39088309-aa28c178-45c8-11e8-907c-f98c802e3dc9.jpg)
+![blog-app_screenshot](https://user-images.githubusercontent.com/34710484/39088321-f421560a-45c8-11e8-9e5b-843605c2296a.jpg)
